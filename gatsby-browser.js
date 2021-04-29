@@ -1,0 +1,1 @@
+/* toda la configuración de este archivo sucede en el navegador. Podemos hacer peticiones a alguna API, utilizar librerías como Google Maps o cualquier otra cosa que queremos que pase solo cuando los usuarios cargan nuestra página web en la etapa de desarrollo.  */
